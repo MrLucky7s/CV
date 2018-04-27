@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyCV</string>
+    <string name="contact">CONTACT:</string>
+    <string name="contactInfo">0959047051 adam.karalic@gmail.com facebook.com/adam.karalic</string>
+    <string name="skills">SKILLS:</string>
+    <string name="skillsText">English C1\nGerman C1 \n C# \n Java \n HTML \n Video Editing</string>
+    <string name="cv">Adam Karalić rođen je u Osijeku 1994. godine gdje je 2009. godine završio Osnovnu školu Franjo Krežma s odličnim uspijehom.
+        2013. godine završio je I. gimnaziju u Osijeku s odličnim uspijehom te je trenutno student na 1. godini diplomskog studija Mrežnih
+        tehnologija na Fakultetu elektrotehnike, računarstva i informaciskih tehnologija u Osijeku.\n\t
+	Posebno je pohvaljen od I. Gimnazije Osijek za promidžbu škole. Sudjelovao je na više županijskih natjecanja iz
+        fizike, engelskog i njemačkog jezika, i plasirai se na državno natjecanje iz njemačkog jezika na kojem je ostvario 4. mjesto.
+        Bio je stipendist za nadarene učenike Osječko-baranjske županije.\n\t
+	Izvrsno govori i piše njemački i engleski jezik te posjedujem DSD certifikat C1 razine iz njemačkog jezika.
+        Također ima vozačku dozvolu B kategorije. Bio je suorganizator i učesnik međunarodnog projekta "Donnau verbindet" (Dunav povezuje)
+        finaciranog od strane Goethe Instituta 2012 godine. Sudjelovao je u projektu "Akcija, ne reakcija" 2011/12 školske godine u organizaciji
+        studentske udruge AIESEC Osijek te je u sklopu natjecanja osvojio 1. mjesto. Također je volontirao na međunarodnom
+        festivalu ekstremnih sportova i glazbe Pannonian Challenge 2011. godine.\n\t
+	Zaršio je 3 godine Fakulteta elektrotehnike, računarstva i Informacijskih tehnologija u Osijeku i stekao titulu
+        Sveučilišni prvostupnik inžinjer elektrotehnike.</string>
+</resources>

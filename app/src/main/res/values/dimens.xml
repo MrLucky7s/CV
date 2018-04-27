@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nameSize">18sp</dimen>
+    <dimen name="headerSize">18sp</dimen>
+    <dimen name="infoSize">10sp</dimen>
+</resources>
